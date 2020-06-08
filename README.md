@@ -3,6 +3,9 @@ This is a simulator for LTI systems with single i/p and single o/p implemented u
 
 1 - Required:  
 Designing a GUI application to visualize and simulate LTI systems with single input and single output
+The system satisfies the following formula: 
+
+![LTI System](https://i.imgur.com/CaTDx6b.png)
 
 2 - System simulation and model:
 The GUI allows the user to enter the output and input orders, to choose the input signal type, to specify a maximum time interval for 
